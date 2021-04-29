@@ -16,10 +16,11 @@ In this project, we designed and developed a web application containing a smart 
 
 📝 This is the chatbot interface where customers request more information about the company and its services, and interact to submit a purchase request online.
 
-<img src="UI1.png" width="30%">
+<img src="UI1.png">
 
-<img src="UI2.png" width="30%">
+<img src="UI2.png">
 
+<hr>
 
 📅 **Last Update On :** September 2019.
 
@@ -31,3 +32,9 @@ For confidentiality obligations, we cannot share the entire source code.
 
 We are restricted to the general presentation and some screenshots.
 
+
+✉️ **Contact** : 
+
+email : ghassene.tanabene@gmail.com
+
+linkedin : https://www.linkedin.com/in/ghassene-tanabene/
