@@ -12,7 +12,7 @@ In this project, we designed and developed a web application containing a smart 
 
 📝 This image shows the web application of Colima Plus 
 
-<img src="UI3.png" width="30%">
+<img src="UI3.png">
 
 📝 This is the chatbot interface where customers request more information about the company and its services, and interact to submit a purchase request online.
 
