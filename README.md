@@ -8,7 +8,7 @@ In this project, we designed and developed a web application containing a smart 
 
 <hr>
 
-📍 Screenshots:
+📍 **Screenshots:**
 
 📝 This image shows the web application of Colima Plus 
 
