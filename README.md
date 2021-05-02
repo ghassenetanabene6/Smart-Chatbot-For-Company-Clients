@@ -4,7 +4,7 @@ In this project, we designed and developed a web application containing a smart 
 
 **ColimaBot** is a Smart chatbot based on Natural Language Processing that facilitates the interaction between the company "Colima PLUS" and its customers.
 
-📍 **Keywords:** Python, NLTK, Spacy, Bootstrap, Flask
+📍 **Keywords:** Natural Language Processing, Python, NLTK, Spacy, Bootstrap, Flask
 
 <hr>
 
